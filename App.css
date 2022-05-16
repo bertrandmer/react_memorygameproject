@@ -1,0 +1,9 @@
+/* Add custom styling here */
+.App{
+    text-align: center;
+}
+.App-header{
+    background-color: black;
+    font-style: normal;
+    color: white;
+}
